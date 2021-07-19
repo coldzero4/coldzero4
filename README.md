@@ -2,11 +2,11 @@
 
 **📫Contact:**
 
--[Twitter (@Raretendoblox_)](https://twitter.com/Raretendoblox_)
+- [Twitter (@Raretendoblox_)](https://twitter.com/Raretendoblox_)
 
--[Discord profile](https://discordapp.com/users/323920868944248834)
+- [Discord profile](https://discordapp.com/users/323920868944248834)
 
--[Roblox profile](https://www.roblox.com/users/273093957/profile)
+- [Roblox profile](https://www.roblox.com/users/273093957/profile)
 
 <!---
 coldzero4/coldzero4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
