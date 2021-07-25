@@ -1,4 +1,4 @@
-👋 I'm coldzero4 (aka raretendo). I'm a programmer, UI Designer, Full Stack developer and Discord Bot Developer.
+👋 Hi, I'm raretendo. I'm a programmer, UI Designer, Full Stack developer and Discord Bot Developer.
 
 **📫Contact:**
 
